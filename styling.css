@@ -39,7 +39,7 @@ p{
 }
 
 #videos{
-     position: absolute;
+   
     height: 100%;
     width: 100%;
   left:0px;
@@ -99,4 +99,13 @@ p{
   background-repeat:no-repeat;
     height:100%;
 
+}
+#Contacts{
+     position: absolute;
+    height: 100%;
+    width: 100%;
+  left:0px;
+      background: #00ccff;
+  background-repeat:no-repeat;
+    
 }
